@@ -1,3 +1,8 @@
+"""
+Andreas Diekmann
+09.09.2017
+"""
+
 import sys
 from PyQt4 import QtGui
 from matplotlib.figure import Figure

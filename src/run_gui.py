@@ -1,6 +1,6 @@
 """
 Andreas Diekmann
-09.09.2017
+erstellt: 09.09.2017
 """
 
 import sys

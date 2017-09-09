@@ -76,7 +76,7 @@ class Ui_MainWindow(object):
         self.label.setText(_translate("MainWindow", "x-Werte", None))
         self.edit_x.setText(_translate("MainWindow", "range(1, 11, 1)", None))
         self.label_2.setText(_translate("MainWindow", "y-Werte", None))
-        self.edit_y.setText(_translate("MainWindow", "[1, 2, 7, 2, 5, 4, 6, 2, 0, 5]", None))
+        self.edit_y.setText(_translate("MainWindow", "[1, 2, 7, 3, 5, 4, 6, 2, 0, 5]", None))
         self.pb_Plot_1.setText(_translate("MainWindow", "Plot 1", None))
         self.pb_Plot_2.setText(_translate("MainWindow", "Plot 2", None))
         self.pb_Schliessen.setText(_translate("MainWindow", "Schließen", None))
